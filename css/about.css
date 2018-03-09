@@ -1,0 +1,39 @@
+#cbody{
+	text-align: center;
+	padding-left: 30%;
+	padding-right: 30%;
+	color: white;
+	text-decoration: bold;
+	font-size: 30px;
+	
+}
+
+#cbody h2{
+	font-size: 80px;
+	color: white;
+	
+}
+
+.team img{
+	width: 90px;
+	height: 90px;
+}
+
+.team h2{
+	font-size: 80px;
+	color: white;
+	
+}
+
+.team h3{
+	font-size: 40px;
+	color: white;
+}
+.team p{
+	font-size: 25px;
+	text-align: center;
+}
+
+
+ 
+

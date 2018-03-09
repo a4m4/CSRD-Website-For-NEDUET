@@ -1,0 +1,31 @@
+#contac{
+	text-align: center;
+}
+
+#contac p{
+	text-align: center;
+}
+
+
+#contac h2{
+	font-size: 100px;
+	color: #00c9f7;
+	font-family: 'Fira Sans', sans-serif;
+	background-color: #070f1c;
+	
+}
+
+#contac li{
+	padding-top: 15px;
+	font-size: 30px;
+	padding-bottom: 6px;
+	font-family: 'Magra', sans-serif;
+	color:white;
+}
+
+#contac p{
+	font-size: 22px;
+	padding-left: 25%;
+	padding-right: 25%;
+font-family: 'Magra', sans-serif;
+}

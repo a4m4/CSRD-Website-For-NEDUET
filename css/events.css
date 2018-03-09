@@ -1,0 +1,75 @@
+#event hr {
+	width: 60%;
+	text-align: center;
+	border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+#event h2{
+	color: white;
+	font-size: 70px;
+}
+
+#event p{
+	text-align: center;
+	padding-left: 20%;
+	width: 80%;
+	padding-top: 5px;
+	
+
+}
+
+#event img {
+	text-align: center;
+	width: 35%;
+	border: 10px solid; 
+}
+
+#event h1{
+	
+	font-size: 110px;
+	font-family: 'Fira Sans', sans-serif;
+	background-color: #070f1c;
+}
+
+
+
+
+
+#workshops hr {
+	width: 60%;
+	text-align: center;
+	border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+#workshops h2{
+	color: white;
+	font-size: 70px;
+}
+#workshops p{
+	text-align: center;
+	padding-left: 20%;
+	width: 80%;
+	padding-top: 5px;
+	
+}
+
+#workshops img {
+	text-align: center;
+	width: 35%;
+	border: 10px solid; 
+}
+
+#workshops h1{
+	
+	font-size: 110px;
+}

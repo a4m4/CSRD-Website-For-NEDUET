@@ -1,0 +1,95 @@
+
+		#Brand{
+
+		font-family: 'Frijole', cursive;
+		text-decoration: underline;
+}
+			font-size: 50px;
+		}
+    #Brand:hover{
+      color: white;
+    }
+
+		
+
+		#Welcome{
+			font-size: 75px;
+			color: white;
+			font-family: 'Frijole', cursive;
+			text-decoration: underline;
+			
+		}
+
+		#Main{
+			font-size: 70px;
+			color: white;
+			font-family: 'Spectral', serif;;
+			text-decoration: underline;
+			text-decoration: bold;
+		}
+
+		#maintext{
+		font-family: 'Frijole', cursive;
+		text-decoration: underline;
+			color: #00c9f7;
+			font-size: 40px;
+		}
+
+		/*.jumbotron{
+			margin-top: 70px;
+			background: url(https://static1.squarespace.com/static/592084579de4bbb4487f5132/t/5927ed0520099ee69aa0a0d7/1495871064366/pexels-photo-347139.jpeg?format=2500w);
+		}*/
+		.container{
+			padding-top: 70px;
+			padding-bottom: 20px;
+			margin: auto;
+			
+		}
+
+
+
+		p{
+			font-family: Playfair Display;
+			text-align: center;
+			font-size: 20px;
+			padding: 0px;
+		}
+
+
+.image {
+  width: 300px;
+  height: 300px;
+  background-size: cover;
+  background-position: center center;
+  border: 2px solid #004751;
+  margin:auto;
+}
+
+
+  .image1 {
+  background-image: url(http://www.neduet.edu.pk/aboutus/VC_image/pic-2.jpg);
+}
+
+ .image2 {
+  background-image: url( images/saiyed.jpg);
+}
+
+ .image3 {
+  background-image: url( https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAgvAAAAJDRlZDMwNDU4LTAzZWUtNDAzOS05Y2NiLThjMDgzYjE1YTgyZg.jpg );
+}
+
+ .image4 {
+  background-image: url( http://www.deafreach.com/wp-content/uploads/2016/04/1.jpg );
+}
+
+ .image5 {
+  background-image: url( http://www.nust.edu.pk/AboutUs/Leadership/PublishingImages/CFOIrfanAhmedAkhtar.jpg );
+}
+
+ .image6 {
+  background-image: url( http://trade-mgmt.com/wp-content/uploads/bfi_thumb/facebook-default-no-profile-pic-mvpopj3d9jj33myd029vvj6uxsstpzv83r1vww9z4c.jpg );
+}
+ .image7 {
+  background-image: url( http://trade-mgmt.com/wp-content/uploads/bfi_thumb/facebook-default-no-profile-pic-mvpopj3d9jj33myd029vvj6uxsstpzv83r1vww9z4c.jpg );
+}
+
